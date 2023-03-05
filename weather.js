@@ -1,7 +1,3 @@
-/* Extension demonstrating a blocking reporter block */
-/* Sayamindu Dasgupta <sayamindu@media.mit.edu>, May 2014 */
-/* Kreg Hanning <khanning@media.mit.edu>, July 2016 */
-
 (function(ext) {
   var APPID = '960f7f58abbc5c98030d1899739c1ba8';
 
